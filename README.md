@@ -2,7 +2,7 @@
 
 ![Design preview for the Interactive rating component coding challenge](./preview.jpg)
 
-Puedes ver el proyecto funcionando en el siguiente enlace:[Interactive rating component](https://santiagoencodigo.github.io/Interactive-rating-component-challenge/)
+Puedes ver el proyecto funcionando en el siguiente enlace: [Interactive rating component](https://santiagoencodigo.github.io/Interactive-rating-component-challenge/)
 
 ## Welcome! 👋
 
