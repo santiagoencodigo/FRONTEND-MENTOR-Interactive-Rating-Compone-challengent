@@ -1,6 +1,8 @@
-# Frontend Mentor - [Interactive rating component]([https://santiagoencodigo.github.io/Interactive-rating-component-challenge/])
+# Frontend Mentor - Interactive Rating Component
 
 ![Design preview for the Interactive rating component coding challenge](./preview.jpg)
+
+[Interactive rating component]([https://santiagoencodigo.github.io/Interactive-rating-component-challenge/])
 
 ## Welcome! 👋
 
